@@ -1,0 +1,39 @@
+model:
+  name: sam
+  args:
+    inp_size: 1024
+    loss: iou
+    encoder_mode:
+      name: sam
+      img_size: 1024
+      prompt_embed_dim: 256
+      patch_size: 16
+      trunk:
+        embed_dim: 96
+        embed_dims: [96, 192, 384, 768]
+        num_heads: 1
+        stages: [1, 2, 11, 2]
+        global_att_blocks: [7, 10, 13]
+        window_pos_embed_bkg_spatial_size: [7, 7]
+        window_spec: [8, 4, 14, 7]
+      neck:
+        d_model: 256
+        backbone_channel_list: [768, 384, 192, 96]
+        fpn_top_down_levels: [2, 3]  # output level 0 and 1 directly use the backbone features
+        fpn_interp_model: nearest
+optimizer:
+  name: adamw
+  args:
+    lr: 0.0002
+lr_min: 1.0e-7
+epoch_max: 30
+
+multi_step_lr:
+  milestones:
+  - 1
+  gamma: 0.1
+epoch_val: 1
+epoch_save: 1
+
+#resume: 60
+#start_epoch: 60
