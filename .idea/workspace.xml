@@ -1,0 +1,804 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="07695a50-f209-4778-bad8-ed532377e868" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-269">
+              <caret line="168" lean-forward="true" selection-start-line="168" selection-end-line="168" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/report_scoring.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="451">
+              <caret line="70" column="40" selection-start-line="70" selection-start-column="40" selection-end-line="70" selection-end-column="40" />
+              <folding>
+                <element signature="e#0#13#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/test_vision.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="420">
+              <caret line="80" column="81" selection-start-line="80" selection-start-column="66" selection-end-line="80" selection-end-column="81" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>GELU</find>
+      <find>get_prompt</find>
+      <find>32</find>
+      <find>init_handcrafted</find>
+      <find>8, 16</find>
+      <find>4, 8</find>
+      <find>gra</find>
+      <find>pixel_</find>
+      <find>pattern</find>
+      <find>mode</find>
+      <find>TP</find>
+      <find>&quot;images&quot;</find>
+      <find>args</find>
+      <find>get</find>
+      <find>get_local</find>
+      <find>mlp</find>
+      <find>system</find>
+      <find>generate</find>
+      <find>threshold</find>
+      <find>device</find>
+      <find>config</find>
+      <find>vision_configs</find>
+      <find>checkpoints</find>
+      <find>vision_checkpoints</find>
+      <find>save_path</find>
+      <find>val_path</find>
+      <find>BASE_URL</find>
+      <find>API_SECRET_KEY</find>
+      <find>json_ReferenceReport_path</find>
+      <find>json_AssistantReport_path</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>conv_mode_new</replace>
+      <replace>mode</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/models_sam2/sam_semi_stochasticdepth_LoraAdapterexternal.py" />
+        <option value="$PROJECT_DIR$/train_stochasticdepth_ssconsistency_sam2LoraAdapterexternal_small.py" />
+        <option value="$PROJECT_DIR$/train_stochasticdepth_ssconsistency_sam2LoraAdapterAdapterexternal_small.py" />
+        <option value="$PROJECT_DIR$/train_stochasticdepth_ssconsistency_sam2moe_small.py" />
+        <option value="$PROJECT_DIR$/models_sam2/sam2/modeling/backbones/hieradet_LoraAdapterAdapterexternal.py" />
+        <option value="$PROJECT_DIR$/semi_transform/semi_250403.py" />
+        <option value="$PROJECT_DIR$/semi_transform/semi_labeledaugment.py" />
+        <option value="$PROJECT_DIR$/models_sam2/sam_semi_LoraAdapterexternal.py" />
+        <option value="$PROJECT_DIR$/models_sam2/sam2/modeling/backbones/hieradet_LoraAdapterexternal.py" />
+        <option value="$PROJECT_DIR$/train_unimatchv2_sam2LoraAdapterexternal_small.py" />
+        <option value="$PROJECT_DIR$/train_stochasticdepth_ssconsistency_sam2adapterexternal_small.py" />
+        <option value="$PROJECT_DIR$/train_stochasticdepth_ssconsistency_sam2Lora_nogate_small.py" />
+        <option value="$PROJECT_DIR$/models_sam2/sam_semi_stochasticdepth_Lora_nogate.py" />
+        <option value="$PROJECT_DIR$/models_sam2/sam2/modeling/backbones/hieradet_Lora_nogate.py" />
+        <option value="$PROJECT_DIR$/train_ssconsistency_sam2LoraAdapterexternal_small.py" />
+        <option value="$PROJECT_DIR$/models_sam2/sam_semi_stochasticdepth_LoraAdapterexternal_nogate.py" />
+        <option value="$PROJECT_DIR$/models_sam2/sam2/modeling/backbones/hieradet_LoraAdapterexternal_nogate.py" />
+        <option value="$PROJECT_DIR$/train_stochasticdepth_ssconsistency_sam2LoraAdapterexternal_nogate_small.py" />
+        <option value="$PROJECT_DIR$/train_stochasticdepth_sam2LoraAdapterexternal_small.py" />
+        <option value="$PROJECT_DIR$/train_unimatchv2_sam2Adapterexternal_small.py" />
+        <option value="$PROJECT_DIR$/train_stochasticdepth_ssconsistency_sam2Adapterexternal_nogate_small.py" />
+        <option value="$PROJECT_DIR$/models_sam2/sam_semi_stochasticdepth.py" />
+        <option value="$PROJECT_DIR$/train_unimatchv2_sam2Lora_nogate_small.py" />
+        <option value="$PROJECT_DIR$/test_stochasticdepth_ssconsistency_sam2LoraAdapterexternal_small.py" />
+        <option value="$PROJECT_DIR$/models_sam2/sam_semi_stochasticdepth_NOpeftmodel.py" />
+        <option value="$PROJECT_DIR$/models_sam2/sam2/modeling/backbones/hieradet_NOpeftmodel.py" />
+        <option value="$PROJECT_DIR$/models_sam2/sam_semi_Lora_nogate.py" />
+        <option value="$PROJECT_DIR$/train_stochasticdepth_ssconsistency_sam2decoderonly_small.py" />
+        <option value="$PROJECT_DIR$/semi_transform/semi_differentdatapercentage.py" />
+        <option value="$PROJECT_DIR$/train_stochasticdepth_ssconsistency_sam2LoraAdapterexternal_small_percentage50.py" />
+        <option value="$PROJECT_DIR$/train_stochasticdepth_ssconsistency_sam2LoraAdapterexternal_small_percentage25.py" />
+        <option value="$PROJECT_DIR$/train_stochasticdepth_ssconsistency_sam2LoraAdapterexternal_small_percentage0.py" />
+        <option value="$PROJECT_DIR$/train_unimatchv2_sam2Adapterexternal_nogate_small.py" />
+        <option value="$PROJECT_DIR$/test_for_RoadwayFlooding.py" />
+        <option value="$PROJECT_DIR$/test_for_UWBenchV2.py" />
+        <option value="$PROJECT_DIR$/test_for_DifferentPercentage.py" />
+        <option value="$PROJECT_DIR$/test_for_UWBenchV2_RoadwayFlooding.py" />
+        <option value="$PROJECT_DIR$/test_for_DifferentPercentage_boxplot.py" />
+        <option value="$PROJECT_DIR$/test_demo.py" />
+        <option value="$PROJECT_DIR$/test_demo_addDeepSeekVL2.py" />
+        <option value="$PROJECT_DIR$/test_demo_250425.py" />
+        <option value="$PROJECT_DIR$/UWAssess.py" />
+        <option value="$PROJECT_DIR$/deepseek_vl2/models/modeling_deepseek.py" />
+        <option value="$PROJECT_DIR$/test_demo_A800.py" />
+        <option value="$PROJECT_DIR$/UWAssess_demo_nochat.py" />
+        <option value="$PROJECT_DIR$/UWAssess_demo.py" />
+        <option value="$PROJECT_DIR$/UWAssess_demo_addchat.py" />
+        <option value="$PROJECT_DIR$/UWAssess_demo_addchat_removechat.py" />
+        <option value="$PROJECT_DIR$/report_scoring.py" />
+        <option value="$PROJECT_DIR$/test_vision.py" />
+        <option value="$PROJECT_DIR$/test.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1096" />
+  </component>
+  <component name="ProjectId" id="2OiS7OeOI9wlRTN05PG9eaF5qvO" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="UWAssess" type="b2602c69:ProjectViewProjectNode" />
+              <item name="UWAssess" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="UWAssess" type="b2602c69:ProjectViewProjectNode" />
+              <item name="UWAssess" type="462c0819:PsiDirectoryNode" />
+              <item name="deepseek_vl2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="UWAssess" type="b2602c69:ProjectViewProjectNode" />
+              <item name="UWAssess" type="462c0819:PsiDirectoryNode" />
+              <item name="deepseek_vl2" type="462c0819:PsiDirectoryNode" />
+              <item name="serve" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="UWAssess" type="b2602c69:ProjectViewProjectNode" />
+              <item name="UWAssess" type="462c0819:PsiDirectoryNode" />
+              <item name="deepseek_vl2" type="462c0819:PsiDirectoryNode" />
+              <item name="serve" type="462c0819:PsiDirectoryNode" />
+              <item name="app_modules" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="UWAssess" type="b2602c69:ProjectViewProjectNode" />
+              <item name="UWAssess" type="462c0819:PsiDirectoryNode" />
+              <item name="results" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="UWAssess" type="b2602c69:ProjectViewProjectNode" />
+              <item name="UWAssess" type="462c0819:PsiDirectoryNode" />
+              <item name="semi_transform" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="UWAssess" type="b2602c69:ProjectViewProjectNode" />
+              <item name="UWAssess" type="462c0819:PsiDirectoryNode" />
+              <item name="test_set" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="UWAssess" type="b2602c69:ProjectViewProjectNode" />
+              <item name="UWAssess" type="462c0819:PsiDirectoryNode" />
+              <item name="test_set" type="462c0819:PsiDirectoryNode" />
+              <item name="UW-Report(partial)" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="editor.config.ad.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/UWAssess_demo_nochat.py" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\ECCV\SAM-Adapter" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python tests.pytest in test_stochasticdepth_ssconsistency_sam2LoraAdapterexternal_small.py">
+    <configuration name="aaa" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="SAM-Adapter-PyTorch-main" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aaa.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="convert_PNGtoJPG" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="SAM-Adapter-PyTorch-main" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/convert_PNGtoJPG.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="try" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="SAM-Adapter-PyTorch-main" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/try.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="water" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="SAM-Adapter-PyTorch-main" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/water.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in test_stochasticdepth_ssconsistency_sam2LoraAdapterexternal_small.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="SAM-Adapter-PyTorch-main" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/test_stochasticdepth_ssconsistency_sam2LoraAdapterexternal_small.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.pytest in test_stochasticdepth_ssconsistency_sam2LoraAdapterexternal_small.py" />
+        <item itemvalue="Python.try" />
+        <item itemvalue="Python.aaa" />
+        <item itemvalue="Python.convert_PNGtoJPG" />
+        <item itemvalue="Python.water" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="07695a50-f209-4778-bad8-ed532377e868" name="Default Changelist" comment="" />
+      <created>1682041740799</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1682041740799</updated>
+      <workItem from="1682041742492" duration="129693000" />
+      <workItem from="1685153266765" duration="18629000" />
+      <workItem from="1685517812324" duration="7783000" />
+      <workItem from="1687317814947" duration="112000" />
+      <workItem from="1689595171367" duration="2791000" />
+      <workItem from="1689816553530" duration="2264000" />
+      <workItem from="1691634205388" duration="537000" />
+      <workItem from="1691634795843" duration="19000" />
+      <workItem from="1692668760867" duration="6462000" />
+      <workItem from="1693033266346" duration="1938000" />
+      <workItem from="1694786387300" duration="27000" />
+      <workItem from="1696903642157" duration="1561000" />
+      <workItem from="1697118570193" duration="4300000" />
+      <workItem from="1697859669050" duration="5165000" />
+      <workItem from="1709207774299" duration="19128000" />
+      <workItem from="1709728537029" duration="15957000" />
+      <workItem from="1710903597779" duration="1666000" />
+      <workItem from="1710919744197" duration="1645000" />
+      <workItem from="1710922325123" duration="4498000" />
+      <workItem from="1711957457333" duration="848000" />
+      <workItem from="1713167498558" duration="938000" />
+      <workItem from="1715405532306" duration="41037000" />
+      <workItem from="1716279231226" duration="35811000" />
+      <workItem from="1716778937256" duration="11448000" />
+      <workItem from="1716987489383" duration="72869000" />
+      <workItem from="1718612964851" duration="100495000" />
+      <workItem from="1720147492199" duration="4754000" />
+      <workItem from="1720699476438" duration="420000" />
+      <workItem from="1720785112196" duration="18999000" />
+      <workItem from="1721441815672" duration="11302000" />
+      <workItem from="1721959739127" duration="3265000" />
+      <workItem from="1723102279330" duration="79973000" />
+      <workItem from="1723859861729" duration="34424000" />
+      <workItem from="1725852101587" duration="2471000" />
+      <workItem from="1728393069947" duration="7076000" />
+      <workItem from="1728633434123" duration="5931000" />
+      <workItem from="1728808678169" duration="2409000" />
+      <workItem from="1728811522389" duration="27349000" />
+      <workItem from="1729514058040" duration="1250000" />
+      <workItem from="1730292296388" duration="4544000" />
+      <workItem from="1731915737686" duration="1013000" />
+      <workItem from="1731921576730" duration="64959000" />
+      <workItem from="1733125429524" duration="600000" />
+      <workItem from="1737016094052" duration="8223000" />
+      <workItem from="1737203122738" duration="6883000" />
+      <workItem from="1738823920152" duration="612000" />
+      <workItem from="1738938504121" duration="612000" />
+      <workItem from="1739005061122" duration="589000" />
+      <workItem from="1739006787804" duration="176000" />
+      <workItem from="1739007097131" duration="1597000" />
+      <workItem from="1739368612119" duration="9269000" />
+      <workItem from="1739976564883" duration="6892000" />
+      <workItem from="1741139960316" duration="4308000" />
+      <workItem from="1742390041628" duration="183531000" />
+      <workItem from="1745498463871" duration="16399000" />
+      <workItem from="1746778968596" duration="596000" />
+      <workItem from="1750509695565" duration="1972000" />
+      <workItem from="1750993501172" duration="601000" />
+      <workItem from="1752066166055" duration="2419000" />
+      <workItem from="1752645268688" duration="6010000" />
+      <workItem from="1753605540137" duration="4438000" />
+      <workItem from="1756651665931" duration="144000" />
+      <workItem from="1757037839202" duration="35943000" />
+      <workItem from="1757573213040" duration="587000" />
+      <workItem from="1760427384546" duration="13588000" />
+      <workItem from="1760497745951" duration="8410000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="pytest_in_test_stochasticdepth_ssconsistency_sam2LoraAdapterexternal_small_py - 2025.04.17 at 15h 00m 56s.xml">
+      <configuration name="pytest in test_stochasticdepth_ssconsistency_sam2LoraAdapterexternal_small.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_test_stochasticdepth_ssconsistency_sam2LoraAdapterexternal_small_py - 2025.04.17 at 15h 07m 03s.xml">
+      <configuration name="pytest in test_stochasticdepth_ssconsistency_sam2LoraAdapterexternal_small.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_test_stochasticdepth_ssconsistency_sam2LoraAdapterexternal_small_py - 2025.04.17 at 15h 13m 37s.xml">
+      <configuration name="pytest in test_stochasticdepth_ssconsistency_sam2LoraAdapterexternal_small.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_test_stochasticdepth_ssconsistency_sam2LoraAdapterexternal_small_py - 2025.04.17 at 15h 29m 23s.xml">
+      <configuration name="pytest in test_stochasticdepth_ssconsistency_sam2LoraAdapterexternal_small.py" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="854127000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14285715" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32917964" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.35410178" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3997923" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32917964" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Remote Host" order="3" />
+      <window_info anchor="right" id="SciView" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1710903657588">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1710903657588" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1710903859837">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1710903859837" />
+    <state x="461" y="162" key="SettingsEditor" timestamp="1710209918796">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="162" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1710209918796" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/SAM2_Adapter_semi$try.coverage" NAME="try Coverage Results" MODIFIED="1743094235044" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/SAM_Adapter_PyTorch_main$water.coverage" NAME="water Coverage Results" MODIFIED="1684891844940" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/SAM_Adapter_AHE$convert_PNGtoJPG.coverage" NAME="convert_PNGtoJPG Coverage Results" MODIFIED="1728654374391" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/SAM2_Adapter_semi$pytest_in_test_stochasticdepth_ssconsistency_sam2LoraAdapterexternal_small_py.coverage" NAME="pytest in test_stochasticdepth_ssconsistency_sam2LoraAdapterexternal_small.py Coverage Results" MODIFIED="1744874962372" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/SAM_Adapter_PyTorch_main$sp.coverage" NAME="sp Coverage Results" MODIFIED="1683021267058" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/SAM_Adapter_PyTorch_main$sam.coverage" NAME="sam Coverage Results" MODIFIED="1683685267503" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/models" />
+    <SUITE FILE_PATH="coverage/SAM2_Adapter_semi$aaa.coverage" NAME="aaa Coverage Results" MODIFIED="1737209619529" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/SAM_Adapter$water.coverage" NAME="water Coverage Results" MODIFIED="1685622784007" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/SAM_Adapter_PyTorch_main$train.coverage" NAME="train Coverage Results" MODIFIED="1682071056668" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/train_stochasticdepth_ssconsistency_sam2LoraAdapterexternal_small_percentage25.py" />
+    <entry file="file://$PROJECT_DIR$/train_stochasticdepth_ssconsistency_sam2LoraAdapterexternal_small_percentage0.py" />
+    <entry file="file://$PROJECT_DIR$/models_sam2/sam.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/train_stochasticdepth_ssconsistency_sam2LoraAdapterexternal_small_percentage50.py" />
+    <entry file="file://$PROJECT_DIR$/train_unimatchv2_sam2Lora_nogate_small.py" />
+    <entry file="file://$PROJECT_DIR$/train_unimatchv2_sam2LoraAdapterexternal_small.py" />
+    <entry file="file://$PROJECT_DIR$/train_ssconsistency_sam2LoraAdapterexternal_small.py" />
+    <entry file="file://$PROJECT_DIR$/train_stochasticdepth_sam2LoraAdapterexternal_small.py" />
+    <entry file="file://$PROJECT_DIR$/train_stochasticdepth_ssconsistency_sam2decoderonly_small.py" />
+    <entry file="file://$PROJECT_DIR$/train_stochasticdepth_ssconsistency_sam2Lora_nogate_small.py" />
+    <entry file="file://$PROJECT_DIR$/train_stochasticdepth_ssconsistency_sam2Adapterexternal_nogate_small.py" />
+    <entry file="file://$PROJECT_DIR$/train_stochasticdepth_ssconsistency_sam2LoraAdapterexternal_nogate_small.py" />
+    <entry file="file://$PROJECT_DIR$/test_for_UWBenchV2.py" />
+    <entry file="file://$PROJECT_DIR$/test_for_RoadwayFlooding.py" />
+    <entry file="file://$USER_HOME$/.PyCharm2019.1/system/python_stubs/1107491798/nt.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="647" column="4" selection-start-line="647" selection-start-column="4" selection-end-line="647" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/train_unimatchv2_sam2Adapterexternal_nogate_small.py" />
+    <entry file="file://$PROJECT_DIR$/models_sam2/sam2/modeling/backbones/hieradet.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-17851">
+          <caret line="241" column="6" selection-start-line="241" selection-start-column="6" selection-end-line="241" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models_sam2/sam_semi.py" />
+    <entry file="file://$PROJECT_DIR$/test_for_DifferentPercentage.py" />
+    <entry file="file://$PROJECT_DIR$/test_for_UWBenchV2_RoadwayFlooding.py" />
+    <entry file="file://$PROJECT_DIR$/test_demo_multiVision.py" />
+    <entry file="file://$PROJECT_DIR$/test_for_DifferentPercentage_boxplot.py" />
+    <entry file="file://$PROJECT_DIR$/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UWAssess.py" />
+    <entry file="file://$PROJECT_DIR$/deepseek_vl2/models/modeling_deepseek.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="284">
+          <caret line="836" selection-start-line="836" selection-end-line="836" />
+          <folding>
+            <element signature="e#1014#1025#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/deepseek_vl2/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4320">
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/ana/Lib/site-packages/torch/nn/init.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models_sam2/sam2/modeling/sam2_utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="120" column="17" lean-forward="true" selection-start-line="120" selection-start-column="17" selection-end-line="120" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_for_oneDataset.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="9" column="59" selection-start-line="9" selection-start-column="59" selection-end-line="9" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/deepseek_vl2/utils/io.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1980">
+          <caret line="71" column="19" selection-start-line="71" selection-start-column="19" selection-end-line="71" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/deepseek_vl2/models/processing_deepseek_vl_v2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="251" column="43" selection-start-line="251" selection-start-column="43" selection-end-line="251" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_demo_addDeepSeekVL2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4980">
+          <caret line="182" column="1" selection-start-line="182" selection-start-column="1" selection-end-line="182" selection-end-column="1" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_demo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="359">
+          <caret line="68" column="43" selection-start-line="68" selection-start-column="43" selection-end-line="68" selection-end-column="43" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SECOND">
+          <first_editor>
+            <folding>
+              <element signature="e#0#12#0" expanded="true" />
+              <element signature="e#0#12#0" expanded="true" />
+              <element signature="e#0#12#0" expanded="true" />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/deepseek_vl2/models/modeling_deepseek_vl_v2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="853">
+          <caret line="335" column="8" selection-start-line="335" selection-start-column="8" selection-end-line="335" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_demo_250425.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5250">
+          <caret line="191" selection-start-line="191" selection-end-line="191" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_demo_A800.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4980">
+          <caret line="182" column="26" selection-start-line="182" selection-start-column="26" selection-end-line="182" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UWAssess_demo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8580">
+          <caret line="302" column="2" selection-start-line="302" selection-start-column="2" selection-end-line="302" selection-end-column="2" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UWAssess_demo_addchat_removechat.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4680">
+          <caret line="173" selection-start-line="173" selection-end-line="173" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UWAssess_demo_nochat.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2580">
+          <caret line="102" selection-start-line="102" selection-end-line="102" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UWAssess_demo_addchat.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9600">
+          <caret line="337" column="23" selection-start-line="337" selection-start-column="23" selection-end-line="337" selection-end-column="23" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inference_report.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3421">
+          <caret line="116" selection-start-line="116" selection-end-line="116" />
+          <folding>
+            <element signature="e#1092#1127#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models_sam2/sam2/modeling/backbones/hieradet_LoraAdapterexternal.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="655">
+          <caret line="914" column="20" selection-start-line="914" selection-start-column="20" selection-end-line="914" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models_sam2/sam_semi_stochasticdepth_LoraAdapterexternal.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="15" column="69" selection-start-line="15" selection-start-column="69" selection-end-line="15" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/semi_transform/transform.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-90" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/semi_transform/semi.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1110">
+          <caret line="37" column="81" selection-start-line="37" selection-start-column="64" selection-end-line="37" selection-end-column="81" />
+          <folding>
+            <element signature="e#0#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/deepseek_vl2/serve/app_modules/presets.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/report_scoring.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="451">
+          <caret line="70" column="40" selection-start-line="70" selection-start-column="40" selection-end-line="70" selection-end-column="40" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-269">
+          <caret line="168" lean-forward="true" selection-start-line="168" selection-end-line="168" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_vision.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="80" column="81" selection-start-line="80" selection-start-column="66" selection-end-line="80" selection-end-column="81" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
