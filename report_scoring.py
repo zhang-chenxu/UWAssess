@@ -80,6 +80,9 @@ if __name__ == '__main__':
     parser.add_argument('--max_tokens', type=int, default=512, help='maximum number of tokens produced in the output')
     args = parser.parse_args()
 
+    if not os.path.exists(args.json_scoring_path):
+        os.makedirs(args.json_scoring_path)
+
     headers = {
         "Content-Type": "application/json",
         "Authorization": f"Bearer {args.API_SECRET_KEY}"
