@@ -168,7 +168,7 @@ def uwassess_eval(test_path, save_path):
 
 
 parser = argparse.ArgumentParser()
-parser.add_argument('--test_path', default='./test_set/JPEGImages', help='path to test images')
+parser.add_argument('--test_path', default='./test_set/RoadwayFlooding/JPEGImages', help='path to test images')
 parser.add_argument('--save_path', default='./results', help='path to save results')
 parser.add_argument('--vision_config', default='./configs/sam2_configs/cod-sam-vit-s-semi_30epoch.yaml', help='path to sam2 model configs')
 parser.add_argument('--vision_checkpoint', default='./checkpoints/uwassess_vision.pth', help='path to adapted sam2 model')

@@ -76,7 +76,7 @@ def eval(eval_loader, model, threshold, device):
 
 
 parser = argparse.ArgumentParser()
-parser.add_argument('--test_path', default='./test_set', help='path to test images and groundtruth')
+parser.add_argument('--test_path', default='./test_set/RoadwayFlooding', help='path to test images and groundtruth')
 parser.add_argument('--vision_config', default='./configs/sam2_configs/cod-sam-vit-s-semi_30epoch.yaml', help='path to sam2 model configs')
 parser.add_argument('--vision_checkpoint', default='./checkpoints/uwassess_vision.pth', help='path to adapted sam2 model')
 parser.add_argument('--device', type=str, default='cuda:0')
